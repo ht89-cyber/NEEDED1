@@ -13,7 +13,7 @@
 #define COL_MAX 350
 #define ROW_MAX 50000
 #define DEBUG 1
-// #define BIT 64
+// ##define BIT 64
 
 //64‚ÍelfŒ`Ž®‚ª64bit”Å‚©64bit”Å‚©‚É‘Î‰ž‚³‚¹‚é
 
